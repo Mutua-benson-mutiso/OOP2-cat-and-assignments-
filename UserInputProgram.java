@@ -1,3 +1,5 @@
+//REG NUMBER: CT100/G/22490/24
+//NAME: MUTUA BENSON MUTISO
 import java.util.Scanner;
 
 public class UserInputProgram {
